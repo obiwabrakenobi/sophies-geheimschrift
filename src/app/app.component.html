@@ -1,0 +1,18 @@
+<div id="container">
+  <span class="oben">{{ ueberschrift }}</span>
+  <div class="unten">{{ unter }}</div>
+  <div class="eingabe">
+    <label for="inputBox">Nachricht:</label>
+    <input id="inputBox" type="text" #box (keyup)="nachrichtEingegeben(box.value)" (paste)="nachrichtEingegeben(box.value.trim())" placeholder="Gib einen Text ein">
+  </div>
+  <div class="ausgabe">
+    <p>{{nachricht}}</p>
+  </div>
+  <div class="eingabe">
+    <label for="inputBox2">Antwort:</label>
+    <input id="inputBox2" type="text" #box2 (keyup)="antwortEingegeben(box2.value)" (paste)="antwortEingegeben(box2.value.trim())" placeholder="Gib die Nachricht ein">
+  </div>
+  <div class="ausgabe">
+    <p>{{antwort}}</p>
+  </div>
+</div>

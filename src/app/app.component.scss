@@ -1,0 +1,55 @@
+:host {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.oben {
+  font-size: 2em;
+  color: #70d097;
+  text-align: center;
+}
+
+.unten {
+  font-size: 1.5em;
+  text-align: center;
+}
+
+.eingabe {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.eingabe label {
+  width: 100px; // Adjust this value as needed
+  text-align: right;
+  margin-right: 10px;
+}
+
+#container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+
+.ausgabe p {
+  min-height: 1em;
+}
+
+.ausgabe {
+  margin-top: 20px;
+  display: flex;
+  color: #70d097;
+  justify-content: center;
+  align-items: center;
+  white-space: pre-wrap;
+}
+
+
