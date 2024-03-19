@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1710876726033,
+  "timestamp": 1710877413919,
   "index": "/sophies-geheimschrift/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/sophies-geheimschrift/favicon.ico",
         "/sophies-geheimschrift/index.html",
-        "/sophies-geheimschrift/main-LPH5XPEW.js",
+        "/sophies-geheimschrift/main-RCTPM6GH.js",
         "/sophies-geheimschrift/manifest.webmanifest",
         "/sophies-geheimschrift/polyfills-RT5I6R6G.js",
         "/sophies-geheimschrift/styles-XT6F2ZOR.css"
@@ -51,8 +51,8 @@
     "/sophies-geheimschrift/assets/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "/sophies-geheimschrift/assets/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
     "/sophies-geheimschrift/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "/sophies-geheimschrift/index.html": "d6e26781fcc849f81e84f45491e75d17515f4288",
-    "/sophies-geheimschrift/main-LPH5XPEW.js": "b4c74b3b31e907cc9c8a60853d22a35b07c0dafb",
+    "/sophies-geheimschrift/index.html": "d70b5a83d2a13055958f170bf47a3b55b7821a72",
+    "/sophies-geheimschrift/main-RCTPM6GH.js": "e17fcc5287e0dff9d099dac73fc9c5bea1dcaf3f",
     "/sophies-geheimschrift/manifest.webmanifest": "077258c20783721cc84a7d1356b0921ca81b9bc8",
     "/sophies-geheimschrift/polyfills-RT5I6R6G.js": "fe9f024576f21ff6314cf8f8332cde58b9a12416",
     "/sophies-geheimschrift/styles-XT6F2ZOR.css": "d8fee32f2b60f69a6499b3c2d90d4be0bb2361c2"
