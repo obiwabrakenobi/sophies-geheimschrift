@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1710873859867,
-  "index": "https://obiwabrakenobi.github.com/index.html",
+  "timestamp": 1710873944292,
+  "index": "/sophies-geheimschrift/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,12 +11,12 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://obiwabrakenobi.github.com/favicon.ico",
-        "https://obiwabrakenobi.github.com/index.html",
-        "https://obiwabrakenobi.github.com/main-TSFE6FY5.js",
-        "https://obiwabrakenobi.github.com/manifest.webmanifest",
-        "https://obiwabrakenobi.github.com/polyfills-RT5I6R6G.js",
-        "https://obiwabrakenobi.github.com/styles-XT6F2ZOR.css"
+        "/sophies-geheimschrift/favicon.ico",
+        "/sophies-geheimschrift/index.html",
+        "/sophies-geheimschrift/main-TSFE6FY5.js",
+        "/sophies-geheimschrift/manifest.webmanifest",
+        "/sophies-geheimschrift/polyfills-RT5I6R6G.js",
+        "/sophies-geheimschrift/styles-XT6F2ZOR.css"
       ],
       "patterns": []
     },
@@ -28,34 +28,34 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://obiwabrakenobi.github.com/assets/icons/icon-128x128.png",
-        "https://obiwabrakenobi.github.com/assets/icons/icon-144x144.png",
-        "https://obiwabrakenobi.github.com/assets/icons/icon-152x152.png",
-        "https://obiwabrakenobi.github.com/assets/icons/icon-192x192.png",
-        "https://obiwabrakenobi.github.com/assets/icons/icon-384x384.png",
-        "https://obiwabrakenobi.github.com/assets/icons/icon-512x512.png",
-        "https://obiwabrakenobi.github.com/assets/icons/icon-72x72.png",
-        "https://obiwabrakenobi.github.com/assets/icons/icon-96x96.png"
+        "/sophies-geheimschrift/assets/icons/icon-128x128.png",
+        "/sophies-geheimschrift/assets/icons/icon-144x144.png",
+        "/sophies-geheimschrift/assets/icons/icon-152x152.png",
+        "/sophies-geheimschrift/assets/icons/icon-192x192.png",
+        "/sophies-geheimschrift/assets/icons/icon-384x384.png",
+        "/sophies-geheimschrift/assets/icons/icon-512x512.png",
+        "/sophies-geheimschrift/assets/icons/icon-72x72.png",
+        "/sophies-geheimschrift/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://obiwabrakenobi.github.com/assets/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
-    "https://obiwabrakenobi.github.com/assets/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
-    "https://obiwabrakenobi.github.com/assets/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
-    "https://obiwabrakenobi.github.com/assets/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
-    "https://obiwabrakenobi.github.com/assets/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
-    "https://obiwabrakenobi.github.com/assets/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
-    "https://obiwabrakenobi.github.com/assets/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
-    "https://obiwabrakenobi.github.com/assets/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "https://obiwabrakenobi.github.com/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "https://obiwabrakenobi.github.com/index.html": "496f914ba404852eed64c0b399705b959db8a16f",
-    "https://obiwabrakenobi.github.com/main-TSFE6FY5.js": "361c21833d816a286beed8ca1fe00a800a7c4e10",
-    "https://obiwabrakenobi.github.com/manifest.webmanifest": "077258c20783721cc84a7d1356b0921ca81b9bc8",
-    "https://obiwabrakenobi.github.com/polyfills-RT5I6R6G.js": "fe9f024576f21ff6314cf8f8332cde58b9a12416",
-    "https://obiwabrakenobi.github.com/styles-XT6F2ZOR.css": "d8fee32f2b60f69a6499b3c2d90d4be0bb2361c2"
+    "/sophies-geheimschrift/assets/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "/sophies-geheimschrift/assets/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "/sophies-geheimschrift/assets/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
+    "/sophies-geheimschrift/assets/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "/sophies-geheimschrift/assets/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "/sophies-geheimschrift/assets/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "/sophies-geheimschrift/assets/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "/sophies-geheimschrift/assets/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "/sophies-geheimschrift/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "/sophies-geheimschrift/index.html": "fc5f6b5bd4413a9df1303ae379b2a1a603a75944",
+    "/sophies-geheimschrift/main-TSFE6FY5.js": "361c21833d816a286beed8ca1fe00a800a7c4e10",
+    "/sophies-geheimschrift/manifest.webmanifest": "077258c20783721cc84a7d1356b0921ca81b9bc8",
+    "/sophies-geheimschrift/polyfills-RT5I6R6G.js": "fe9f024576f21ff6314cf8f8332cde58b9a12416",
+    "/sophies-geheimschrift/styles-XT6F2ZOR.css": "d8fee32f2b60f69a6499b3c2d90d4be0bb2361c2"
   },
   "navigationUrls": [
     {
